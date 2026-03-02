@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-253.30387.90">
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="1ea8345b-ed0c-40b3-b875-a6848dd853e1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="WeeklyAssisments:week1:HibernateTest:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="c0fe2510-205c-4243-887c-769093bb71fb">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="ClassWork:HibernateDemo:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="84d588fc-ca16-4b2b-bd32-30a9b21c96d7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="ClassWork:HibernateDemo:target:classes:hibernate.cfg.xml/Hibernate" uuid="c2a43178-34d6-4dea-b7be-740759b0adc8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="e32fbb3b-8b34-4b7d-9223-769f6a524324">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="daea296b-e214-4ec8-8bfa-5deef2c99529">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="WeeklyAssisments:week1:HibernateTest:target:classes:hibernate.cfg.xml/Hibernate" uuid="716740a0-b556-4552-8656-84813b525725">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

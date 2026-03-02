@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61f232ae-e62d-4bb3-aa1d-6ee8dbe72e97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/.idea/ClassWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/java/org/example/OneToOneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/main/java/org/example/entity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/main/java/org/example/entity/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/main/java/org/example/entity/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/main/java/org/example/entity/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/Injection/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/main/java/org/example/ManyToManyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/main/java/org/example/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/main/java/org/example/entity/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/main/java/org/example/entity/fl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToMany/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/main/java/org/example/ManyToOneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/main/java/org/example/entity/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/main/java/org/example/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/ManyToOne/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/src/main/java/org/example/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/SpringBoot/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/src/main/java/org/example/StudentServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClassWork/untitled/src/test/java/org/example/StudentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/java/org/example/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/java/org/example/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/java/org/example/entity/IDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/java/org/example/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/HibernateCaseBaesd/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/untitled/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Advance_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Advance_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/java/org/example/OneToOne/OneToOneMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/java/org/example/OneToOne/entity/Passport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/java/org/example/OneToOne/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClassWork/HibernateMapping/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/libraries/java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/libraries/mysql_connector_j_9_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/src/main/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/src/main/com.tyss/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/src/main/com.tyss/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/src/test/com.tyss/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/src/test/com.tyss/StudentServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/test-data/add.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MockitiTest/src/main/java/org/example/OrderService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39yMJy6iBZQaJYOBE3k3Itp3Gz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f232ae-e62d-4bb3-aa1d-6ee8dbe72e97" name="Changes" comment="" />
+      <created>1771663789073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771663789073</updated>
+    </task>
+    <servers />
+  </component>
+</project>
