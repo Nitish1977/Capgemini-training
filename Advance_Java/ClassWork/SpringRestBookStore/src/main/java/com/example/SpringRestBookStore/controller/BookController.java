@@ -6,6 +6,7 @@ import com.example.SpringRestBookStore.service.BookService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.RequestEntity;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 
@@ -20,4 +21,7 @@ public class BookController {
     public RequestEntity<BookDto> createBook(@RequestBody @Valid BookDto dto){
 
     }
+
+    @PutMapping("/updateBook/{id}")
+    public ResponseEntity<BookDto> updateBook(@PathVariable)
 }

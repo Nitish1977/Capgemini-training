@@ -6,10 +6,16 @@ import org.modelmapper.ModelMapper;
 
 public class BookService {
     private ModelMapper modelMapper;
+
     public BookDto createBook(BookDto dto){
         Book book = modelMapper.map(dto, Book.class);
         Book saved = repository.save(book);
 
         return  modelMapper.map(saved, BookDto.class);
+    }
+
+    public  BookDto updateBookByID(Long id, BookDto bookDto){
+
+
     }
 }
